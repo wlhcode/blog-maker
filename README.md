@@ -1,6 +1,5 @@
 # Blog Maker
-![Screenshot 1](https://raw.githubusercontent.com/wlhcode/blog-maker/master/scrshot/1.png)
-![Screenshot 2](https://raw.githubusercontent.com/wlhcode/blog-maker/master/scrshot/2.png)
+<img src="https://raw.githubusercontent.com/wlhcode/blog-maker/master/scrshot/1.png" alt="scrshot" height="175"/> <img src="https://raw.githubusercontent.com/wlhcode/blog-maker/master/scrshot/2.png" alt="scrshot" height="175"/>
 
 Blog Maker is a simple tool to convert your TXT files into a nice lightweight HTML blog. You are more than welcome to change the layout of your blog. The release is for Windows only, but you can compile `prog.cpp` yourself for other systems.
 ## Contents
