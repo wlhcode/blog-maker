@@ -12,6 +12,6 @@ You may view an example made with Blog Maker [here](https://wlhcode.github.io/bl
 
 ---
 
-# Installation
+## Installation
 
 Please follow the guide [over here](https://wlhcode.github.io/blog-maker/installation) to install the software. Thank you for your support!
