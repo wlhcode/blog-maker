@@ -8,6 +8,8 @@ There should be two folders `css`, `html`, one HTML file `index.html` and two EX
 Write your blogs (limited to one each day) in the root directory of the folder, and drag your TXT file into this EXE in order to convert it to HTML format. Note that the first line of each TXT is the title of the blog, while the name of your TXT file is neglected. This EXE can also help make edits to your blog. Just drag the updated TXT to overwrite the old one.
 ### clear.exe
 This tool is for Windows only. It can clear your blog, leaving you a fresh copy of this tool. Wouldn't say much about this.
+### favicon.png
+This is the favicon for your website. Feel free to edit it.
 ### css folder
 The default style is named `main.css` in this folder. You may change it if you like.
 ### html folder
