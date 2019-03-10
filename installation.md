@@ -14,14 +14,14 @@ There should be two folders `css`, `html`, one HTML file `index.html`, one PNG `
 ---
 
 # Usage
-**Windows**
+**Windows**  
 1. Download the [latest release](https://github.com/wlhcode/blog-maker/releases) and unzip the package.
 2. Compose your blog in the root directory of the new folder using a plain TXT editor.
 3. Save your TXT file and drag it to `prog.exe`. A new HTML file will be generated in the `html` folder.
 4. To remove your blog, please run `clear.exe` and enter `y` in the command prompt.
 
-**Mac OS**
-1. Download the source code of [here](https://github.com/wlhcode/blog-maker/releases) and unzip the package.
+**Mac OS**  
+1. Download the source code [here](https://github.com/wlhcode/blog-maker/releases) and unzip the package.
 2. Compile `prog.exe` using Xcode or other compilers.
 3. Compose your blog in the root directory of the new folder using a plain TXT editor.
 4. Save your TXT file and drag it to `prog.exe`. A new HTML file will be generated in the `html` folder.
