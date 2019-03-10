@@ -11,6 +11,8 @@ There should be two folders `css`, `html`, one HTML file `index.html`, one PNG `
 
 `/html`: Please avoid making edits to this folder directly.
 
+---
+
 # Usage
 **Windows**
 1. Download the [latest release](https://github.com/wlhcode/blog-maker/releases) and unzip the package.
@@ -24,3 +26,13 @@ There should be two folders `css`, `html`, one HTML file `index.html`, one PNG `
 3. Compose your blog in the root directory of the new folder using a plain TXT editor.
 4. Save your TXT file and drag it to `prog.exe`. A new HTML file will be generated in the `html` folder.
 5. To remove your blog, copy the contents from `html/temp_index_SPARE.txt` to both the files `index.html` and `temp_index.txt`. Remove all HTML files in the directory `html/`.
+
+### Attachment: Sample format of TXT blog.
+```
+LOREM IPSUM
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis libero eget nisi tempor tincidunt non nec mi. Vestibulum nec congue diam. Integer ac bibendum quam. 
+
+In nec urna nunc. In ac placerat dolor, eu feugiat nunc. Suspendisse vel aliquam neque. In hac habitasse platea dictumst.
+```
+**First line**: Title of your blog.  
+**Second line onwards**: Body of your blog.
