@@ -61,7 +61,9 @@ int main(int argc,char *argv[]){
 		if((now->tm_year)%100<10) cout<<"0";
 		cout<<(now->tm_year)%100;
 		
-		cout<<"</title>\n</head>\n<body>"<<endl;
+		cout<<"</title>"<<endl;
+		cout<<"<link rel="<<dubq<<"shortcut icon"<<dubq<<" type="<<dubq<<"image/png"<<dubq<<" href="<<dubq<<"../favicon.png"<<dubq<<"/>"<<endl;
+		cout<<"</head>\n<body>"<<endl;
 		
 		cout<<"<p style="<<dubq<<"text-align:right"<<dubq<<"><a href="<<dubq<<"../index.html"<<dubq<<">Index</a>"<<endl;
 		

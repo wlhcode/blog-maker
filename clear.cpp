@@ -23,4 +23,7 @@ int main(){
 		help<<line<<endl;
 	}
 	cout<<"index.html has been reset."<<endl;
+	
+	cin.ignore();
+	cin.get();
 }
